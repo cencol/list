@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adobe_products">
+    	<item>Free coffee</item>
+    	<item>Buy 1 get 1 free</item>
+    	<item>2 can dine for $10</item>
+    	<item>$2 off</item>
+    	<item>Free 1st time ever</item>
+    	<item>$1 off</item>
+        <item>Pay what you want</item>
+        <item>but 1 get 1 50% off</item>
+        <item>14 days free member trial</item>
+        <item>2 days unlimited</item>
+    </string-array>
+</resources>
